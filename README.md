@@ -1,2 +1,2 @@
 # Titanic_competition
-Kaggle Competition to predict Titanic Competitions
+Kaggle Competition to predict Titanic survivors
